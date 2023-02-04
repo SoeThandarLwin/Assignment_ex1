@@ -1,0 +1,17 @@
+th {
+    padding: 30px;
+}
+table{
+    padding-left: 12em;
+    margin-left: 12em;
+}
+td, h1, img{
+    text-align: center;
+}
+
+.special {
+    /* text-align: center; */
+    padding-left: 21em;
+    margin-left: 21em;
+    padding-top: 30px;
+}
