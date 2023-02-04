@@ -1,3 +1,8 @@
+body {
+    /* background-image: url("../img/coffee1.jpg"); */
+    background-color: #f3c6c6;
+  }
+
 th {
     padding: 30px;
 }
@@ -5,13 +10,26 @@ table{
     padding-left: 12em;
     margin-left: 12em;
 }
-td, h1, img{
+#menu td, h1, img{
     text-align: center;
 }
 
-.special {
-    /* text-align: center; */
+.menu-title a {
+    text-decoration: none;
+    color: #775631;
+}
+
+#menu th {
+    color: #9c6666;
+}
+
+.table-2 th {
+    color: #e2415b;
+}
+
+
+/* .special {
     padding-left: 21em;
     margin-left: 21em;
     padding-top: 30px;
-}
+} */
